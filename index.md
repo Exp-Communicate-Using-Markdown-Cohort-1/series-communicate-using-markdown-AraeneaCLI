@@ -12,3 +12,7 @@
 $ Yash Mankar is here
 
 ```
+
+- [x] Visit AraeneaCLI
+- [ ] Tommorow
+- [x] Today
